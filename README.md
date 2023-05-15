@@ -2,6 +2,8 @@
 - 👀 I’m interested in ...fullstack ,front end and backend development in JavaScript.
 
 - 💞️ I’m looking to collaborate on ...JavaScript projects with React.
+- I am also a Backend developer with Nodejs and expressjs
+- 
 - 📫 How to reach me ...+2348166429924
 
 <!---
